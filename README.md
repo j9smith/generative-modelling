@@ -15,10 +15,10 @@ A notebook series introducing the theory and implementation of generative models
 ### 3. Implicit Models
 *Coming soon*
 
-### Diffusion-based Models
+### 4. Diffusion-based Models
 *Coming soon*
 
-### Autoregressive Models
+### 5. Autoregressive Models
 *Coming soon*
 
 ## References
