@@ -7,9 +7,9 @@ A notebook series introducing the theory and implementation of generative models
 ## 📂 Repository Structure
 
 ### 1. Latent Variable Models
-- [1.1 Mixture Models](./1.%20Latent%20Variable%20Models/1.1%20Mixture%20Models.ipynb/)
-- [1.2 Factor Analysis](./1.%20Latent%20Variable%20Models/1.2%20Factor%20Analysis.ipynb)
-- [1.3 Variational Autoencoders](./1.%20Latent%20Variable%20Models/1.3%20Variational%20Autoencoders.ipynb)
+- [1.1 Mixture Models](./1.%20Latent%20Variable%20Models/1.1%20Mixture%20Models.ipynb/) - model data as a mixture of distributions, introducing discrete latent variables to capture clusters.
+- [1.2 Factor Analysis](./1.%20Latent%20Variable%20Models/1.2%20Factor%20Analysis.ipynb) - explain data as linear combinations of continuous latent factors, uncovering hidden structure behind observed correlations.
+- [1.3 Variational Autoencoders](./1.%20Latent%20Variable%20Models/1.3%20Variational%20Autoencoders.ipynb) - extend to non-linear mappings with neural networks, using continuous latent variables and variational inference.
 
 ### 2. Flow-based Models
 *Coming soon*
