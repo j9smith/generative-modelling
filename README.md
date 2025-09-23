@@ -2,7 +2,7 @@
 
 A notebook series introducing the theory and implementation of generative models, from classical latent variable models to modern deep architectures. Each notebook contains mathematical derivations and from-scratch implementations.
 
-## Repository Structure
+## 📂 Repository Structure
 
 ### 1. Latent Variable Models
 - [1.1 Mixture Models](./1.%20Latent%20Variable%20Models/1.1%20Mixture%20Models.ipynb/)
@@ -12,7 +12,7 @@ A notebook series introducing the theory and implementation of generative models
 ### 2. Flow-based Models
 *Coming soon*
 
-### 3. Implicit Models
+### 3. Adversarial Models
 *Coming soon*
 
 ### 4. Diffusion-based Models
@@ -21,5 +21,5 @@ A notebook series introducing the theory and implementation of generative models
 ### 5. Autoregressive Models
 *Coming soon*
 
-## References
+## 📚 References
 This series loosely follows the structure of *Deep Generative Modeling* by Jakub M. Tomczak (Springer, 2022) alongside key seminal papers.
