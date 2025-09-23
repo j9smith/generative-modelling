@@ -1,8 +1,6 @@
 # Generative Modelling
-<img width="1313" height="374" alt="image" src="https://github.com/user-attachments/assets/fd8a98e9-e86b-4604-92f7-a479855cd15f" />
 
 <img width="656" height="187" alt="image" src="https://github.com/user-attachments/assets/fd8a98e9-e86b-4604-92f7-a479855cd15f" />
-
 
 A notebook series introducing the theory and implementation of generative models, from classical latent variable models to modern deep architectures. Each notebook contains mathematical derivations and from-scratch implementations.
 
