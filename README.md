@@ -17,7 +17,7 @@ A notebook series introducing the theory and implementation of generative models
 ### 3. Adversarial Models
 *Coming soon*
 
-### 4. Diffusion-based Models
+### 4. Diffusion Models
 *Coming soon*
 
 ### 5. Autoregressive Models
