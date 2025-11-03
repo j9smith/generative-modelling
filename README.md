@@ -12,7 +12,7 @@ A notebook series introducing the theory and implementation of generative models
 - [1.3 Variational Autoencoders (VAEs)](./1.%20Latent%20Variable%20Models/1.3%20Variational%20Autoencoders.ipynb) - extend to non-linear mappings with neural networks, using continuous latent variables and variational inference.
 
 ### 2. Flow-based Models
-- 2.1 Discrete Flow Models
+- 2.1 Discrete Flow Models *(in progress)*
 - 2.2 Continuous Flow Models
 
 ### 3. Implicit Models
@@ -20,10 +20,10 @@ A notebook series introducing the theory and implementation of generative models
 - 3.2 Score-Based Models
 
 ### 4. Diffusion Models
-*Coming soon*
+- 4.1 Denoising Diffusion Probabilistic Models (DDPM) *(in progress)*
 
 ### 5. Autoregressive Models
 *Coming soon*
 
 ## 📚 References
-This series loosely follows the structure of *Deep Generative Modeling* by Jakub M. Tomczak (Springer, 2022) alongside key seminal papers.
+This series loosely follows the structure of *Deep Generative Modeling* by Jakub M. Tomczak (Springer, 2022) and *Probabilistic Machine Learning: Advanced Topics, Generation* by Kevin Murphy (MIT Press, 2023) alongside key seminal papers.
