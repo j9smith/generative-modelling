@@ -20,7 +20,7 @@ A notebook series introducing the theory and implementation of generative models
 - 3.2 Score-Based Models
 
 ### 4. Diffusion Models
-- 4.1 Denoising Diffusion Probabilistic Models (DDPM) *(in progress)*
+- [4.1 Denoising Diffusion Probabilistic Models (DDPM) *(in progress)*](./4.%20Diffusion%20Models/4.1%20Denoising%20Diffusion%20Probabilistic%20Models.ipynb)
 
 ### 5. Autoregressive Models
 *Coming soon*
